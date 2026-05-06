@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mate Calabaza Clásico",
+        "categoria": "mates",
+        "descripcion": "Mate tradicional de calabaza curado. De tamaño mediano y muy durable.",
+        "precio": 20000,
+        "stock": 5,
+        "destacado": false,
+        "fecha_ingreso": "2024-01-10",
+        "imagen": "mate-calabaza.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Mate de Algarrobo",
+        "categoria": "mates",
+        "descripcion": "Mate de algarrobo con guarda de acero. De tamaño grande, ideal para compartir.",
+        "precio": 30000,
+        "stock": 10,
+        "destacado": true,
+        "fecha_ingreso": "2024-02-05",
+        "imagen": "mate-algarrobo.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Mate de Cerámica",
+        "categoria": "mates",
+        "descripcion": "Mate de cerámica blanco con dije de acero. Liviano, fácil de limpiar y muy decorativo.",
+        "precio": 1800,
+        "stock": 8,
+        "destacado": true,
+        "fecha_ingreso": "2024-02-20",
+        "imagen": "mate-ceramica.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Mate Acero Inoxidable",
+        "categoria": "mates",
+        "descripcion": "Mate moderno de acero inoxidable. No requiere curado y es muy resistente.",
+        "precio": 10000,
+        "stock": 13,
+        "destacado": false,
+        "fecha_ingreso": "2024-03-01",
+        "imagen": "mate-acero.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Termo Stanley 1 Litro",
+        "categoria": "termos",
+        "descripcion": "Termo verde clásico Stanley de 1 litro, mantiene el agua caliente hasta 24 horas.",
+        "precio": 150000,
+        "stock": 5,
+        "destacado": true,
+        "fecha_ingreso": "2024-01-15",
+        "imagen": "termo-stanley.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Termo Lumilagro 1 Litro",
+        "categoria": "termos",
+        "descripcion": "Termo nacional de excelente calidad, con tapa cebadora. Mantiene el calor por hasta 12 horas.",
+        "precio": 25000,
+        "stock": 20,
+        "destacado": false,
+        "fecha_ingreso": "2024-01-20",
+        "imagen": "termo-lumilagro.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Termo Acero 500ml",
+        "categoria": "termos",
+        "descripcion": "Termo compacto de acero inoxidable. Liviano y fácil de transportar.",
+        "precio": 18000,
+        "stock": 6,
+        "destacado": false,
+        "fecha_ingreso": "2024-02-10",
+        "imagen": "termo-acero.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Yerba Rosamonte 1kg",
+        "categoria": "yerbas",
+        "descripcion": "Yerba mate tradicional de Corrientes, con palo y sabor intenso.",
+        "precio": 3000,
+        "stock": 0,
+        "destacado": false,
+        "fecha_ingreso": "2024-03-05",
+        "imagen": "yerba-rosamonte.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Yerba playadito 1kg",
+        "categoria": "yerbas",
+        "descripcion": "Yerba suave y equilibrada, ideal para el consumo diario, con un bajo contenido de polvo y hojas de mayor tamaño.",
+        "precio": 4000,
+        "stock": 20,
+        "destacado": false,
+        "fecha_ingreso": "2024-03-05",
+        "imagen": "yerba-playadito.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Yerba CBSé sabor Naranja",
+        "categoria": "yerbas",
+        "descripcion": "una yerba con notas de caramelo y aroma a jugo de naranja recién exprimido. La combinación perfecta de yerba mate y naranjas frescas.",
+        "precio": 3500,
+        "stock": 10,
+        "destacado": true,
+        "fecha_ingreso": "2024-03-10",
+        "imagen": "yerba-cbse.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Bombilla Alpaca Pico de Loro",
+        "categoria": "accesorios",
+        "descripcion": "Bombilla de alpaca con filtro pico de loro, ideal para yerbas con palo. Durable y fácil de limpiar.",
+        "precio": 18000,
+        "stock": 15,
+        "destacado": false,
+        "fecha_ingreso": "2024-01-25",
+        "imagen": "bombilla-alpaca.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Bombilla Acero Cucharita",
+        "categoria": "accesorios",
+        "descripcion": "Bombilla de acero inoxidable con forma de cucharita en la punta. No se oxida y retiene menos sedimento.",
+        "precio": 15000,
+        "stock": 0,
+        "destacado": false,
+        "fecha_ingreso": "2024-02-01",
+        "imagen": "bombilla-cucharita.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Latas Azucarera y Yerbera",
+        "categoria": "accesorios",
+        "descripcion": "Par de latas de metal para azúcar y yerba.",
+        "precio": 8000,
+        "stock": 10,
+        "destacado": false,
+        "fecha_ingreso": "2024-02-15",
+        "imagen": "azucarera-yerbera.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Kit Matero Completo",
+        "categoria": "kits",
+        "descripcion": "Kit completo con mate de aluminio, bombilla, canasta matera de cuero, termo de acero 1L, yerbera y azucarera de metal.",
+        "precio": 150000,
+        "stock": 3,
+        "destacado": false,
+        "fecha_ingreso": "2024-03-15",
+        "imagen": "kit-matero.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Kit Matero River Plate",
+        "categoria": "kits",
+        "descripcion": "Kit matero personalizado River Plate, con mate de acero inoxidable, bombilla, termo 1L de acero inoxidable, yerbera y azucarera de metal.",
+        "precio": 100000,
+        "stock": 5,
+        "destacado": false,
+        "fecha_ingreso": "2024-03-20",
+        "imagen": "kit-river.jpg"
+    }
+]
